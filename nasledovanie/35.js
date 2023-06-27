@@ -25,8 +25,8 @@ class Employe extends User {
 
 let employe = new Employe();
 
-employe.setName('Milana');
-employe.setSurn('Oleynikova');
+employe.setName('Tanya');
+employe.setSurn('Platonova');
 
 let name = employe.getName();
 let surn = employe.getSurn();
