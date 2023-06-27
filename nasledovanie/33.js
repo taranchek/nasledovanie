@@ -18,7 +18,7 @@ class User {
 	  }
   }
   
-  let employe = new Employe('Milana', 6000);
+  let employe = new Employe('Tanya', 6000);
   
   let name = employe.getName();
   let salary = employe.getSalary();
