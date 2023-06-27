@@ -28,7 +28,7 @@ class Employe extends User {
 
 let employe = new Employe;
 
-employe.setName('Milana');
+employe.setName('Tanya');
 employe.setSalary(3400);
 employe.setYear(18);
 
