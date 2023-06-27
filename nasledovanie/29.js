@@ -11,7 +11,7 @@ class Employe extends User {
 }
 
 let employe = new Employe;
-employe.setName('Milana');
+employe.setName('Tanya');
 let name = employe.getName();
 
 console.log(name);
